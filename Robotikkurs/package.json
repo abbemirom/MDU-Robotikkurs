@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "mqtt": "^5.1.2",
+    "mqtt": "^5.1.4",
     "vue": "^3.3.4"
   },
   "devDependencies": {
